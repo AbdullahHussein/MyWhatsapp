@@ -3,6 +3,6 @@ var mainParent = document.getElementById("mainParent"),
 
 window.onload = function () {
     setTimeout(function () {
-        // fakeBtn.click();
+        fakeBtn.click();
     }, 1000);
 }
